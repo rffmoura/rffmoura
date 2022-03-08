@@ -1,26 +1,27 @@
-<h2 align="center"> Olá! </h2>
-<h1 align="center"> Sou o Rafael Moura </h1>
-<p align="center">
-  Moro no Brasil, em Campos dos Goytacazes - RJ </br></br>
-<!--   <i>Amo...</i> -->
-</p>
-<div align="center">
-  <p> Sou apaixonado por Tecnologia, desenvolvimento e soluções que contribuem para uma melhor interação digital.
+### Hello, I'm Rafael Moura <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Estudo Desenvolvimento Web Fullstack na Trybe e Análise e Desenvolvimento de Sistemas na Estácio</br>
-<!--       filmes e séries :movie_camera: </br>
-      ler bastante :books: </p> -->
-<div>
-### Estou estudando:
-<div>
-  <img alt="html5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="max-width:100%;">
-  <img alt="css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="max-width:100%;">
-  <img alt="javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width:100%;">
-  <img alt="reactjs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;">
+I'm a front-end developer who is passionate about technology, innovations and solutions that contribute to a better digital interaction. I'm based in Rio de Janeiro, Brazil.
+
+I have gathered experience working with ReactJS in various projects, which helped me to become a mature team worker.
+
+### Currently focusing on 👨‍💻:
+
+I've been improving my React skills and learning back-end with Node.js.
+
+### Languages and Tools 🛠:
+
+<div style="display: inline_block">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Reactjs" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Node-js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Express" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </div>
-</br>
-<!-- <img align="right" width="280px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="gif sobre tecnologia" /> -->
-<img  width="400px" src="https://github-readme-stats.vercel.app/api?username=rffmoura&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=0fa36b&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800" alt="estatísticas da minha conta do github"/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rffmoura&layout=compact&text_color=fff&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b&custom_title=most used languages" alt="linguagens mais usadas"/>
-##
 
+### Find me elsewhere 🌎:
+
+<a href = "mailto:rafael.gomesbarretomoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jrafael-gb-moura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
