@@ -4,6 +4,8 @@ I'm a front-end developer who is passionate about technology, innovations and so
 
 I have gathered experience working with ReactJS in various projects, which helped me to become a mature team worker.
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" />
+
 ### Currently focusing on 👨‍💻:
 
 I've been improving my React skills and learning back-end with Node.js.
