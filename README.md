@@ -4,7 +4,7 @@
 
 👨‍💻 I have gathered experience working with ReactJS in various projects, which helped me to become a mature team worker.
 
-🔭 I'm currently working at [EVT](https://evtit.com)
+🔭 I'm currently working as a front-end developer at [EVT](https://evtit.com)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
 
