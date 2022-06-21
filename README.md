@@ -1,4 +1,4 @@
-### Hello, I'm Rafael Moura <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hello, I'm Rafael Moura 🖖
 
 🔥 I'm a front-end developer who is passionate about technology, innovations and solutions that contribute to a better digital interaction. I'm based in Rio de Janeiro, Brazil.
 
