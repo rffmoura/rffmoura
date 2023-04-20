@@ -4,7 +4,7 @@
 
 👨‍💻 I have gathered experience working with ReactJS in various projects, which helped me to become a mature team worker.
 
-🔭 I'm currently working as a front-end developer at [Incentivar]([https://evtit.com](https://incentivar.io/))
+🔭 I'm currently working as a front-end developer at [Incentivar]([https://incentivar.io/])
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
 
