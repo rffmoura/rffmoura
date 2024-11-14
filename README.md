@@ -2,7 +2,7 @@
 
 🔥 I'm a front-end developer who is passionate about technology, innovations and solutions that contribute to a better digital interaction. I'm based in Rio de Janeiro, Brazil.
 
-👨‍💻 I have gathered experience working with ReactJS in various projects, which helped me to become a mature team worker.
+👨‍💻 I have gathered experience working with ReactJS and NextJS in various projects, which helped me to become a mature team worker.
 
 🔭 I'm currently working as a front-end developer at [Incentivar](https://incentivar.io/)
 
